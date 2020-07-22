@@ -61,3 +61,4 @@
 [GNU v3](https://opensource.org/licenses/gpl-3.0.html)
 
 Manuel (ElBichop) 
+Thanks to all
